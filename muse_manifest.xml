@@ -1,0 +1,395 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406409689035">
+  <folder name="css">
+    <file name="site_global.css" crc="446349889"/>
+    <file name="master_a-p_gina-maestra.css" crc="357417471" ref="index:disenografico:disenoweb:contacto:app-moviles:portafolios:confirmacion"/>
+    <file name="index.css" crc="3816668194" ref="index"/>
+    <file name="disenografico.css" crc="3802400187" ref="disenografico"/>
+    <file name="iefonts_disenografico.css" crc="3843425021" ref="disenografico"/>
+    <file name="disenoweb.css" crc="343178138" ref="disenoweb"/>
+    <file name="iefonts_disenoweb.css" crc="3901702996" ref="disenoweb"/>
+    <file name="contacto.css" crc="422052243" ref="contacto"/>
+    <file name="app-moviles.css" crc="3885537645" ref="app-moviles"/>
+    <file name="iefonts_app-moviles.css" crc="494885814" ref="app-moviles"/>
+    <file name="portafolios.css" crc="412863560" ref="portafolios"/>
+    <file name="confirmacion.css" crc="3839736825" ref="confirmacion"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="museutils.js" crc="353204447" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>disenoweb:phone>contacto:phone>confirmacion:tablet>index:tablet>disenoweb:tablet>confirmacion:disenografico:index:confirmacion"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="webpro.js" crc="317917375" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>portafolios:tablet>contacto:disenografico:disenoweb:portafolios:contacto:index"/>
+    <file name="musewpdisclosure.js" crc="4003881138" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>disenografico:tablet>portafolios:disenografico:portafolios"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="phone>disenoweb:tablet>index:tablet>disenografico:tablet>disenoweb:disenografico:disenoweb:index"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="phone>disenoweb:tablet>index:tablet>disenografico:tablet>disenoweb:disenografico:disenoweb:index"/>
+    <file name="touchswipe.js" crc="367691663" ref="phone>disenoweb:tablet>index:tablet>disenografico:tablet>disenoweb:disenografico:disenoweb:index"/>
+    <file name="form_check.php" crc="4345382" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="form_throttle.php" crc="81770323" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="form-u8380.php" crc="3951058603" ref="phone>contacto"/>
+    <file name="form-u6814.php" crc="4143751702" ref="tablet>contacto"/>
+    <file name="museredirect.js" crc="4054502145" ref="disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="form-u9034.php" crc="455022353" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="a-página-maestra-favicon.ico" crc="4164548618" ref="phone>index:phone>disenoweb"/>
+    <file name="disenoweb.jpg" crc="4028127340" ref="phone>index:tablet>index:index"/>
+    <file name="telefono.jpg" crc="3917178964" ref="phone>index:tablet>index:index"/>
+    <file name="plantilla.jpg" crc="4147184653" ref="phone>index:tablet>index:index"/>
+    <file name="impresora.jpg" crc="4115763809" ref="phone>index:tablet>index:index"/>
+    <file name="disenografico1.jpg" crc="105992318" ref="phone>index:tablet>index:index"/>
+    <file name="3d.jpg" crc="4291598207" ref="phone>index:tablet>index:index"/>
+    <file name="lo-que-necesitas.png" crc="3788927890" ref="phone>index:tablet>index:index"/>
+    <file name="botonpresupuesto.png" crc="4241017293" ref="phone>index"/>
+    <file name="asw.png" crc="3812834248" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion:tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="logo-crop-u11954.png" crc="274952310" ref="phone>index:phone>disenografico:phone>disenoweb:phone>app-moviles:phone>portafolios:phone>contacto:phone>confirmacion"/>
+    <file name="blogger.png" crc="425974275" ref="phone>index:tablet>index:disenografico:phone>disenoweb"/>
+    <file name="twitter.png" crc="4102706121" ref="phone>index:tablet>index:disenografico:phone>disenoweb"/>
+    <file name="facebook.png" crc="317936629" ref="phone>index:tablet>index:disenografico:phone>disenoweb"/>
+    <file name="tumblr.png" crc="2208831" ref="phone>index:tablet>index:disenografico:phone>disenoweb"/>
+    <file name="banner-disenog2.jpg" crc="307063846" ref="phone>disenografico:tablet>disenografico"/>
+    <file name="23-rectangle 4 copy150x150.png" crc="86376668" ref="phone>disenografico"/>
+    <file name="23-u12064.png" crc="3876566967" ref="phone>disenografico"/>
+    <file name="23-u12084.png" crc="520159157" ref="phone>disenografico"/>
+    <file name="23-rectangle 2 copy150x150.png" crc="217018911" ref="phone>disenografico"/>
+    <file name="23-shape 1 copy150x150.png" crc="3922625910" ref="phone>disenografico"/>
+    <file name="23-u12066.png" crc="456690712" ref="phone>disenografico"/>
+    <file name="23-shape 1 copy 2150x150.png" crc="4044691811" ref="phone>disenografico"/>
+    <file name="23-rectangle 7 copy150x150.png" crc="266072151" ref="phone>disenografico"/>
+    <file name="23-u12068.png" crc="20254085" ref="phone>disenografico"/>
+    <file name="23-rectangle 7 copy 2150x150.png" crc="4254574312" ref="phone>disenografico"/>
+    <file name="23-rectangle 6 copy150x150.png" crc="3760018444" ref="phone>disenografico"/>
+    <file name="23-u12078.png" crc="4220055086" ref="phone>disenografico"/>
+    <file name="23-rectangle 6 copy 2150x150.png" crc="4221284602" ref="phone>disenografico"/>
+    <file name="23-rectangle 5 copy150x150.png" crc="343662561" ref="phone>disenografico"/>
+    <file name="23-u12082.png" crc="4198176156" ref="phone>disenografico"/>
+    <file name="23-rectangle 5 copy 2150x150.png" crc="290493116" ref="phone>disenografico"/>
+    <file name="banner-disenow2.jpg" crc="3818155236" ref="phone>disenoweb:tablet>disenoweb"/>
+    <file name="banner-desarrollow.jpg" crc="4145318065" ref="phone>disenoweb:tablet>disenoweb"/>
+    <file name="icono-notebook.png" crc="487848674" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="amuse_magicicons-u12007.png" crc="149147471" ref="phone>disenoweb"/>
+    <file name="amuse_magicicons-u12009.png" crc="4156315818" ref="phone>disenoweb"/>
+    <file name="amuse_magicicons-u12014.png" crc="3948665803" ref="phone>disenoweb"/>
+    <file name="amuse_magicicons-u12012.png" crc="279767451" ref="phone>disenoweb"/>
+    <file name="u12023-4.png" crc="303925943" ref="phone>disenoweb"/>
+    <file name="aw_06.png" crc="274135146" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="aw_12.png" crc="3982521802" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="aw_03.png" crc="4164276613" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="aw_11.png" crc="4093587355" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="aw_16.png" crc="3814909585" ref="phone>disenoweb:tablet>disenoweb:disenoweb"/>
+    <file name="banner-appm381x103.png" crc="113676816" ref="phone>app-moviles"/>
+    <file name="ipad.png" crc="4042422830" ref="phone>app-moviles:tablet>app-moviles:app-moviles"/>
+    <file name="banner-portafolios382x103.png" crc="240259994" ref="phone>portafolios"/>
+    <file name="fabiola2012-1.jpg" crc="513457822" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="comandos_acuarela-u12207-fr.jpg" crc="214994585" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12207-r-full.png" crc="3831486510" ref="phone>portafolios"/>
+    <file name="u12207-a-full.png" crc="4285023674" ref="phone>portafolios"/>
+    <file name="apto_entrada-u12231-fr.jpg" crc="144004649" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12231-r-full.png" crc="252224004" ref="phone>portafolios"/>
+    <file name="u12231-a-full.png" crc="480602770" ref="phone>portafolios"/>
+    <file name="afiche elecciones aeinf-u12175-fr.jpg" crc="418057235" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12175-r-full.png" crc="471784855" ref="phone>portafolios"/>
+    <file name="u12175-a-full.png" crc="4234120002" ref="phone>portafolios"/>
+    <file name="2013-08-29-u12223-fr.jpg" crc="3782989814" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12223-r-full.png" crc="4187883677" ref="phone>portafolios"/>
+    <file name="u12223-a-full.png" crc="460948426" ref="phone>portafolios"/>
+    <file name="expoferia casub-u12167-fr.jpg" crc="3841503798" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12167-r-full.png" crc="3769540931" ref="phone>portafolios"/>
+    <file name="u12167-a-full.png" crc="381126842" ref="phone>portafolios"/>
+    <file name="fabiola2012-1-u12235-fr.jpg" crc="4008798781" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12235-r-full.png" crc="531223302" ref="phone>portafolios"/>
+    <file name="u12235-a-full.png" crc="506134335" ref="phone>portafolios"/>
+    <file name="edificio a-modelado-u12171-fr.jpg" crc="371517663" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12171-r-full.png" crc="3949805844" ref="phone>portafolios"/>
+    <file name="u12171-a-full.png" crc="4166673396" ref="phone>portafolios"/>
+    <file name="comandos_group_3d-u12199-fr.jpg" crc="4169167504" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12199-r-full.png" crc="4154492101" ref="phone>portafolios"/>
+    <file name="u12199-a-full.png" crc="3884945325" ref="phone>portafolios"/>
+    <file name="comandos_group 2011-u12203-fr.jpg" crc="518592690" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12203-r-full.png" crc="4253767485" ref="phone>portafolios"/>
+    <file name="u12203-a-full.png" crc="3804905361" ref="phone>portafolios"/>
+    <file name="primer_render_apto-u12179-fr.jpg" crc="365559319" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12179-r-full.png" crc="4132988925" ref="phone>portafolios"/>
+    <file name="u12179-a-full.png" crc="4240830494" ref="phone>portafolios"/>
+    <file name="modelado3d-2-u12227-fr.jpg" crc="158557895" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12227-r-full.png" crc="174125441" ref="phone>portafolios"/>
+    <file name="u12227-a-full.png" crc="135456591" ref="phone>portafolios"/>
+    <file name="maryanbrienta-ilustracionps-u12191-fr.jpg" crc="3982005941" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12191-r-full.png" crc="3785044388" ref="phone>portafolios"/>
+    <file name="u12191-a-full.png" crc="3832691188" ref="phone>portafolios"/>
+    <file name="marizel-vector-u12195-fr.jpg" crc="4288792838" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12195-r-full.png" crc="167793609" ref="phone>portafolios"/>
+    <file name="u12195-a-full.png" crc="518921051" ref="phone>portafolios"/>
+    <file name="logotipo 2012 compadresca-u12215-fr.jpg" crc="311536149" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12215-r-full.png" crc="411370954" ref="phone>portafolios"/>
+    <file name="u12215-a-full.png" crc="339825808" ref="phone>portafolios"/>
+    <file name="ilustracion fabiola-u12187-fr.jpg" crc="4128715571" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12187-r-full.png" crc="3767786944" ref="phone>portafolios"/>
+    <file name="u12187-a-full.png" crc="4062268704" ref="phone>portafolios"/>
+    <file name="730dias_andrea-u12183-fr.jpg" crc="4106178227" ref="phone>portafolios:tablet>portafolios:portafolios"/>
+    <file name="u12183-r-full.png" crc="310976474" ref="phone>portafolios"/>
+    <file name="u12183-a-full.png" crc="266776283" ref="phone>portafolios"/>
+    <file name="comandos_acuarela334x206.jpg" crc="4084616620" ref="phone>portafolios"/>
+    <file name="apto_entrada344x148.jpg" crc="4180126780" ref="phone>portafolios"/>
+    <file name="afiche elecciones aeinf265x385.jpg" crc="4219744078" ref="phone>portafolios"/>
+    <file name="2013-08-29334x264.jpg" crc="4101488017" ref="phone>portafolios"/>
+    <file name="expoferia casub247x301.jpg" crc="63251651" ref="phone>portafolios"/>
+    <file name="fabiola2012-1264x316.jpg" crc="3765948572" ref="phone>portafolios"/>
+    <file name="edificio a-modelado270x168.jpg" crc="62314030" ref="phone>portafolios"/>
+    <file name="comandos_group_3d320x192.jpg" crc="4107112880" ref="phone>portafolios"/>
+    <file name="comandos_group 2011-crop-u12292.jpg" crc="325142961" ref="phone>portafolios"/>
+    <file name="primer_render_apto322x189.jpg" crc="46294218" ref="phone>portafolios"/>
+    <file name="modelado3d-2342x215.jpg" crc="3813953777" ref="phone>portafolios"/>
+    <file name="maryanbrienta-ilustracionps302x303.jpg" crc="4290616439" ref="phone>portafolios"/>
+    <file name="marizel-vector317x264.jpg" crc="4040385464" ref="phone>portafolios"/>
+    <file name="logotipo 2012 compadresca338x169.jpg" crc="392617841" ref="phone>portafolios"/>
+    <file name="ilustracion fabiola199x255.jpg" crc="3770544131" ref="phone>portafolios"/>
+    <file name="730dias_andrea222x332.jpg" crc="221171677" ref="phone>portafolios"/>
+    <file name="nombre.png" crc="4206919683" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="email.png" crc="4278967274" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="mensaje.png" crc="481931049" ref="phone>contacto:tablet>contacto:contacto"/>
+    <file name="u8398-17.png" crc="314325949" ref="phone>contacto"/>
+    <file name="u8398-17-r.png" crc="4233881900" ref="phone>contacto"/>
+    <file name="u8398-17-m.png" crc="497544306" ref="phone>contacto"/>
+    <file name="u8398-17-fs.png" crc="3870710140" ref="phone>contacto"/>
+    <file name="paloma-enviar238x158.png" crc="3974405510" ref="phone>confirmacion"/>
+    <file name="logo-crop-u6260.png" crc="3866743057" ref="tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion"/>
+    <file name="desarrollo web.jpg" crc="152382644" ref="tablet>index"/>
+    <file name="disenoweb (2).jpg" crc="4263428539" ref="tablet>index"/>
+    <file name="disenografico.jpg" crc="4614369" ref="tablet>index"/>
+    <file name="botonpresupuesto-u6441.png" crc="3983137809" ref="tablet>index"/>
+    <file name="icono-appm-naranja.png" crc="3996357224" ref="tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="icono-disenog-naranja.png" crc="429786063" ref="tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="icono-portafolio-naranja.png" crc="464409466" ref="tablet>index:tablet>disenografico:tablet>disenoweb:tablet>app-moviles:tablet>portafolios:tablet>contacto:tablet>confirmacion:disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="23-rectangle 4 copy.png" crc="284000837" ref="tablet>disenografico:disenografico"/>
+    <file name="23-u11841.png" crc="3865493320" ref="tablet>disenografico"/>
+    <file name="23-u11859.png" crc="3972094358" ref="tablet>disenografico"/>
+    <file name="23-rectangle 2 copy.png" crc="157279428" ref="tablet>disenografico:disenografico"/>
+    <file name="23-shape 1 copy.png" crc="4279766007" ref="tablet>disenografico:disenografico"/>
+    <file name="23-u11851.png" crc="4221624283" ref="tablet>disenografico"/>
+    <file name="23-shape 1 copy 2.png" crc="3951940981" ref="tablet>disenografico:disenografico"/>
+    <file name="23-rectangle 7 copy.png" crc="524511394" ref="tablet>disenografico:disenografico"/>
+    <file name="23-u11833.png" crc="4110176156" ref="tablet>disenografico"/>
+    <file name="23-rectangle 7 copy 2.png" crc="3762778398" ref="tablet>disenografico:disenografico"/>
+    <file name="23-rectangle 6 copy.png" crc="3993029419" ref="tablet>disenografico:disenografico"/>
+    <file name="23-u11847.png" crc="424133560" ref="tablet>disenografico"/>
+    <file name="23-rectangle 6 copy 2.png" crc="187094556" ref="tablet>disenografico:disenografico"/>
+    <file name="23-rectangle 5 copy.png" crc="485242360" ref="tablet>disenografico:disenografico"/>
+    <file name="23-u11857.png" crc="3889173930" ref="tablet>disenografico"/>
+    <file name="23-rectangle 5 copy 2.png" crc="4115613259" ref="tablet>disenografico:disenografico"/>
+    <file name="botonpresupuesto-u7076.png" crc="3983137809" ref="tablet>disenografico"/>
+    <file name="marizel-vector.jpg" crc="4263429346" ref="tablet>disenografico:tablet>portafolios:disenografico:portafolios"/>
+    <file name="comandos_group 2011-crop-u11928.jpg" crc="500042444" ref="tablet>disenografico"/>
+    <file name="comandos_acuarela488x297.jpg" crc="4193738048" ref="tablet>disenografico"/>
+    <file name="logo_infoalcence-crop-u11923.jpg" crc="179171913" ref="tablet>disenografico"/>
+    <file name="tarjeta_droopy513x275.jpg" crc="179212921" ref="tablet>disenografico"/>
+    <file name="u11888.png" crc="140346539" ref="tablet>disenografico"/>
+    <file name="u11888-r.png" crc="348194657" ref="tablet>disenografico"/>
+    <file name="u11888-a.png" crc="348194657" ref="tablet>disenografico"/>
+    <file name="amuse_magicicons-u11785.png" crc="223159929" ref="tablet>disenoweb"/>
+    <file name="amuse_magicicons-u11787.png" crc="4052362090" ref="tablet>disenoweb"/>
+    <file name="amuse_magicicons-u11790.png" crc="3925905489" ref="tablet>disenoweb"/>
+    <file name="amuse_magicicons-u11792.png" crc="4035403871" ref="tablet>disenoweb"/>
+    <file name="botonpresupuesto-u6921.png" crc="3983137809" ref="tablet>disenoweb"/>
+    <file name="u11801-4.png" crc="4153556607" ref="tablet>disenoweb"/>
+    <file name="banner-appm.png" crc="16531259" ref="tablet>app-moviles:app-moviles"/>
+    <file name="botonpresupuesto-u7788.png" crc="3983137809" ref="tablet>app-moviles"/>
+    <file name="banner-portafolios755x204.png" crc="394332888" ref="tablet>portafolios"/>
+    <file name="u11717-r-full.png" crc="3896074201" ref="tablet>portafolios"/>
+    <file name="u11717-a-full.png" crc="3881162460" ref="tablet>portafolios"/>
+    <file name="u11653-r-full.png" crc="4086730374" ref="tablet>portafolios"/>
+    <file name="u11653-a-full.png" crc="165917984" ref="tablet>portafolios"/>
+    <file name="u11693-r-full.png" crc="294081518" ref="tablet>portafolios"/>
+    <file name="u11693-a-full.png" crc="452144111" ref="tablet>portafolios"/>
+    <file name="u11649-r-full.png" crc="442601959" ref="tablet>portafolios"/>
+    <file name="u11649-a-full.png" crc="4116311466" ref="tablet>portafolios"/>
+    <file name="u11713-r-full.png" crc="3800576019" ref="tablet>portafolios"/>
+    <file name="u11713-a-full.png" crc="75135663" ref="tablet>portafolios"/>
+    <file name="u11701-r-full.png" crc="85895631" ref="tablet>portafolios"/>
+    <file name="u11701-a-full.png" crc="3885338074" ref="tablet>portafolios"/>
+    <file name="u11669-r-full.png" crc="4012799642" ref="tablet>portafolios"/>
+    <file name="u11669-a-full.png" crc="4119728577" ref="tablet>portafolios"/>
+    <file name="u11705-r-full.png" crc="10225127" ref="tablet>portafolios"/>
+    <file name="u11705-a-full.png" crc="432765868" ref="tablet>portafolios"/>
+    <file name="u11721-r-full.png" crc="294735579" ref="tablet>portafolios"/>
+    <file name="u11721-a-full.png" crc="176690954" ref="tablet>portafolios"/>
+    <file name="u11661-r-full.png" crc="235117590" ref="tablet>portafolios"/>
+    <file name="u11661-a-full.png" crc="256256929" ref="tablet>portafolios"/>
+    <file name="pancarta azulejos-u11673-fr.jpg" crc="4025457455" ref="tablet>portafolios:portafolios"/>
+    <file name="u11673-r-full.png" crc="337071308" ref="tablet>portafolios"/>
+    <file name="u11673-a-full.png" crc="137268982" ref="tablet>portafolios"/>
+    <file name="u11677-r-full.png" crc="8159302" ref="tablet>portafolios"/>
+    <file name="u11677-a-full.png" crc="262393210" ref="tablet>portafolios"/>
+    <file name="u11689-r-full.png" crc="3802560767" ref="tablet>portafolios"/>
+    <file name="u11689-a-full.png" crc="4129492921" ref="tablet>portafolios"/>
+    <file name="u11665-r-full.png" crc="3885957601" ref="tablet>portafolios"/>
+    <file name="u11665-a-full.png" crc="279288635" ref="tablet>portafolios"/>
+    <file name="u11685-r-full.png" crc="458732552" ref="tablet>portafolios"/>
+    <file name="u11685-a-full.png" crc="4138833490" ref="tablet>portafolios"/>
+    <file name="u11681-r-full.png" crc="4218114977" ref="tablet>portafolios"/>
+    <file name="u11681-a-full.png" crc="472771819" ref="tablet>portafolios"/>
+    <file name="veronicamc jun-u11697-fr.jpg" crc="4231687659" ref="tablet>portafolios:portafolios"/>
+    <file name="u11697-r-full.png" crc="3876848601" ref="tablet>portafolios"/>
+    <file name="u11697-a-full.png" crc="436308838" ref="tablet>portafolios"/>
+    <file name="u11657-r-full.png" crc="341420240" ref="tablet>portafolios"/>
+    <file name="u11657-a-full.png" crc="414814595" ref="tablet>portafolios"/>
+    <file name="comandos_acuarela.jpg" crc="4072567386" ref="tablet>portafolios:disenografico:portafolios"/>
+    <file name="apto_entrada715x306.jpg" crc="108326014" ref="tablet>portafolios"/>
+    <file name="afiche elecciones aeinf361x525.jpg" crc="3977562941" ref="tablet>portafolios"/>
+    <file name="2013-08-29.jpg" crc="3954511567" ref="tablet>portafolios:portafolios"/>
+    <file name="expoferia casub.jpg" crc="3859125584" ref="tablet>portafolios:portafolios"/>
+    <file name="fabiola2012-1430x516.jpg" crc="239264240" ref="tablet>portafolios"/>
+    <file name="edificio a-modelado.jpg" crc="4045153965" ref="tablet>portafolios:portafolios"/>
+    <file name="comandos_group_3d710x427.jpg" crc="285558073" ref="tablet>portafolios"/>
+    <file name="comandos_group 2011.jpg" crc="396216489" ref="tablet>portafolios"/>
+    <file name="primer_render_apto693x407.jpg" crc="3845705302" ref="tablet>portafolios"/>
+    <file name="pancarta azulejos.jpg" crc="154836914" ref="tablet>portafolios:portafolios"/>
+    <file name="modelado3d-2.jpg" crc="523571362" ref="tablet>portafolios:portafolios"/>
+    <file name="maryanbrienta-ilustracionps502x504.jpg" crc="51342219" ref="tablet>portafolios"/>
+    <file name="logotipo 2012 compadresca693x347.jpg" crc="3804564624" ref="tablet>portafolios"/>
+    <file name="ilustracion fabiola.jpg" crc="479296701" ref="tablet>portafolios:portafolios"/>
+    <file name="veronicamc jun632x475.jpg" crc="156463501" ref="tablet>portafolios"/>
+    <file name="730dias_andrea350x524.jpg" crc="28060768" ref="tablet>portafolios"/>
+    <file name="u11562-sprite.png" crc="55446886" ref="tablet>contacto"/>
+    <file name="u6832-17.png" crc="64850900" ref="tablet>contacto"/>
+    <file name="u6832-17-r.png" crc="3844078909" ref="tablet>contacto"/>
+    <file name="u6832-17-m.png" crc="4004001657" ref="tablet>contacto"/>
+    <file name="u6832-17-fs.png" crc="514938835" ref="tablet>contacto"/>
+    <file name="paloma-enviar.png" crc="474828146" ref="tablet>confirmacion:confirmacion"/>
+    <file name="logo-crop-u4339.png" crc="3903367302" ref="disenografico:disenoweb:app-moviles:portafolios:contacto:index:confirmacion"/>
+    <file name="banner-disenog.png" crc="531522397" ref="disenografico"/>
+    <file name="23-u9685.png" crc="3865493320" ref="disenografico"/>
+    <file name="23-u9695.png" crc="3972094358" ref="disenografico"/>
+    <file name="23-u9693.png" crc="4221624283" ref="disenografico"/>
+    <file name="23-u9681.png" crc="4110176156" ref="disenografico"/>
+    <file name="23-u9673.png" crc="424133560" ref="disenografico"/>
+    <file name="23-u9671.png" crc="3889173930" ref="disenografico"/>
+    <file name="botonpresupuesto-u1183.png" crc="3813063372" ref="disenografico"/>
+    <file name="comandos_group 2011-crop-u10438.jpg" crc="511449363" ref="disenografico"/>
+    <file name="logo_infoalcence-crop-u10432.jpg" crc="3941247061" ref="disenografico"/>
+    <file name="tarjeta_droopy.jpg" crc="4090310838" ref="disenografico"/>
+    <file name="u10415.png" crc="140346539" ref="disenografico"/>
+    <file name="u10415-r.png" crc="348194657" ref="disenografico"/>
+    <file name="u10415-a.png" crc="348194657" ref="disenografico"/>
+    <file name="banner-desarrollow2.png" crc="485592648" ref="disenoweb"/>
+    <file name="blank.gif" crc="4208392903" ref="disenoweb"/>
+    <file name="banner-disenow.png" crc="262633184" ref="disenoweb"/>
+    <file name="loading.gif" crc="3815509949" ref="disenoweb"/>
+    <file name="amuse_magicicons-u11339.png" crc="223159929" ref="disenoweb"/>
+    <file name="amuse_magicicons-u11341.png" crc="4052362090" ref="disenoweb"/>
+    <file name="amuse_magicicons-u11354.png" crc="3925905489" ref="disenoweb"/>
+    <file name="amuse_magicicons-u11352.png" crc="4035403871" ref="disenoweb"/>
+    <file name="botonpresupuesto-u1253.png" crc="3813063372" ref="disenoweb"/>
+    <file name="u7572-4.png" crc="4153556607" ref="disenoweb"/>
+    <file name="botonpresupuesto-u1401.png" crc="3813063372" ref="app-moviles"/>
+    <file name="banner-portafolios.png" crc="355527531" ref="portafolios"/>
+    <file name="u10479-r-full.png" crc="407315958" ref="portafolios"/>
+    <file name="u10479-a-full.png" crc="230617822" ref="portafolios"/>
+    <file name="u10471-r-full.png" crc="203723029" ref="portafolios"/>
+    <file name="u10471-a-full.png" crc="4203233164" ref="portafolios"/>
+    <file name="u10467-r-full.png" crc="4177270240" ref="portafolios"/>
+    <file name="u10467-a-full.png" crc="479294891" ref="portafolios"/>
+    <file name="u10475-r-full.png" crc="3796134305" ref="portafolios"/>
+    <file name="u10475-a-full.png" crc="117469439" ref="portafolios"/>
+    <file name="u10483-r-full.png" crc="4292808500" ref="portafolios"/>
+    <file name="u10483-a-full.png" crc="4008013556" ref="portafolios"/>
+    <file name="u10787-r-full.png" crc="3843342404" ref="portafolios"/>
+    <file name="u10787-a-full.png" crc="3837778169" ref="portafolios"/>
+    <file name="u10807-r-full.png" crc="4127085972" ref="portafolios"/>
+    <file name="u10807-a-full.png" crc="458081721" ref="portafolios"/>
+    <file name="u10831-r-full.png" crc="4224708703" ref="portafolios"/>
+    <file name="u10831-a-full.png" crc="4133742154" ref="portafolios"/>
+    <file name="u10839-r-full.png" crc="4192098599" ref="portafolios"/>
+    <file name="u10839-a-full.png" crc="67275842" ref="portafolios"/>
+    <file name="u10844-r-full.png" crc="513048322" ref="portafolios"/>
+    <file name="u10844-a-full.png" crc="4134253583" ref="portafolios"/>
+    <file name="u10849-r-full.png" crc="3880488681" ref="portafolios"/>
+    <file name="u10849-a-full.png" crc="36681419" ref="portafolios"/>
+    <file name="u10854-r-full.png" crc="490020333" ref="portafolios"/>
+    <file name="u10854-a-full.png" crc="301639036" ref="portafolios"/>
+    <file name="u10859-r-full.png" crc="4091071584" ref="portafolios"/>
+    <file name="u10859-a-full.png" crc="465734909" ref="portafolios"/>
+    <file name="logotipo ciudo-u10864-fr.jpg" crc="3831998963" ref="portafolios"/>
+    <file name="u10864-r-full.png" crc="3994359096" ref="portafolios"/>
+    <file name="u10864-a-full.png" crc="114314117" ref="portafolios"/>
+    <file name="u10869-r-full.png" crc="4168837357" ref="portafolios"/>
+    <file name="u10869-a-full.png" crc="58555305" ref="portafolios"/>
+    <file name="u10874-r-full.png" crc="55606086" ref="portafolios"/>
+    <file name="u10874-a-full.png" crc="55164803" ref="portafolios"/>
+    <file name="u11195-r-full.png" crc="4215244217" ref="portafolios"/>
+    <file name="u11195-a-full.png" crc="4036995461" ref="portafolios"/>
+    <file name="u11203-r-full.png" crc="4258714071" ref="portafolios"/>
+    <file name="u11203-a-full.png" crc="3839937079" ref="portafolios"/>
+    <file name="u11208-r-full.png" crc="3823169280" ref="portafolios"/>
+    <file name="u11208-a-full.png" crc="80565177" ref="portafolios"/>
+    <file name="apto_entrada992x425.jpg" crc="420875242" ref="portafolios"/>
+    <file name="comandos_group_3d773x465.jpg" crc="319026028" ref="portafolios"/>
+    <file name="comandos_group 2011-crop-u10632.jpg" crc="332490348" ref="portafolios"/>
+    <file name="primer_render_apto757x444.jpg" crc="127745660" ref="portafolios"/>
+    <file name="maryanbrienta-ilustracionps541x543.jpg" crc="4081400566" ref="portafolios"/>
+    <file name="logotipo ciudo.jpg" crc="383765195" ref="portafolios"/>
+    <file name="logotipo 2012 compadresca819x410.jpg" crc="3838084975" ref="portafolios"/>
+    <file name="veronicamc jun.jpg" crc="243499547" ref="portafolios"/>
+    <file name="730dias_andrea390x585.jpg" crc="3901031877" ref="portafolios"/>
+    <file name="u2149-sprite.png" crc="186778145" ref="contacto"/>
+    <file name="u9035-17.png" crc="499090632" ref="contacto"/>
+    <file name="u9035-17-r.png" crc="4022432876" ref="contacto"/>
+    <file name="u9035-17-m.png" crc="4098858159" ref="contacto"/>
+    <file name="u9035-17-fs.png" crc="3990539040" ref="contacto"/>
+    <file name="u3289.png" crc="3813063372" ref="index"/>
+    <file name="u3289-r.png" crc="3903166231" ref="index"/>
+    <file name="diseno_web.jpg" crc="4263428539" ref="index"/>
+    <file name="diseno_grafico.jpg" crc="4614369" ref="index"/>
+    <file name="desarrollo_web.jpg" crc="4220061011" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_gina-maestra.css" crc="4014449035" ref="tablet>confirmacion:tablet>disenoweb:tablet>app-moviles:tablet>index:tablet>portafolios:tablet>contacto:tablet>disenografico"/>
+      <file name="confirmacion.css" crc="113630961" ref="tablet>confirmacion"/>
+      <file name="disenoweb.css" crc="3922622919" ref="tablet>disenoweb"/>
+      <file name="iefonts_disenoweb.css" crc="474615512" ref="tablet>disenoweb"/>
+      <file name="app-moviles.css" crc="4175127491" ref="tablet>app-moviles"/>
+      <file name="iefonts_app-moviles.css" crc="268538142" ref="tablet>app-moviles"/>
+      <file name="index.css" crc="4037848911" ref="tablet>index"/>
+      <file name="portafolios.css" crc="4251097854" ref="tablet>portafolios"/>
+      <file name="contacto.css" crc="4051998846" ref="tablet>contacto"/>
+      <file name="disenografico.css" crc="533436188" ref="tablet>disenografico"/>
+      <file name="iefonts_disenografico.css" crc="4276157370" ref="tablet>disenografico"/>
+    </folder>
+    <file name="index.html" crc="252756839" mt="1392847476517" redirect="true"/>
+    <file name="disenografico.html" crc="260838921" mt="1392848501104" redirect="true"/>
+    <file name="disenoweb.html" crc="149750159" mt="1406356939221" redirect="true"/>
+    <file name="app-moviles.html" crc="372164188" mt="1406356939260" redirect="true"/>
+    <file name="portafolios.html" crc="3983253150" mt="1406356939276" redirect="true"/>
+    <file name="contacto.html" crc="220720431" mt="1406356939301" redirect="true"/>
+    <file name="confirmacion.html" crc="4143545346" mt="1406356939310" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_gina-maestra.css" crc="189958204" ref="phone>app-moviles:phone>confirmacion:phone>disenoweb:phone>portafolios:phone>disenografico:phone>contacto:phone>index"/>
+      <file name="app-moviles.css" crc="177178602" ref="phone>app-moviles"/>
+      <file name="confirmacion.css" crc="4188822989" ref="phone>confirmacion"/>
+      <file name="disenoweb.css" crc="3788920124" ref="phone>disenoweb"/>
+      <file name="iefonts_disenoweb.css" crc="3771672532" ref="phone>disenoweb"/>
+      <file name="portafolios.css" crc="4200632846" ref="phone>portafolios"/>
+      <file name="disenografico.css" crc="3904875703" ref="phone>disenografico"/>
+      <file name="contacto.css" crc="3948338942" ref="phone>contacto"/>
+      <file name="index.css" crc="149631792" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="356304935" mt="1406408830705" redirect="true"/>
+    <file name="disenografico.html" crc="335855941" mt="1406408830706" redirect="true"/>
+    <file name="disenoweb.html" crc="4193727976" mt="1406409674765" redirect="true"/>
+    <file name="app-moviles.html" crc="282013361" mt="1406408830709" redirect="true"/>
+    <file name="portafolios.html" crc="3853924006" mt="1406408830710" redirect="true"/>
+    <file name="contacto.html" crc="3954927672" mt="1406408830711" redirect="true"/>
+    <file name="confirmacion.html" crc="3904778067" mt="1406408830713" redirect="true"/>
+  </folder>
+  <file name="disenografico.html" crc="4112601226" mt="1406356958819" redirect="true"/>
+  <file name="disenoweb.html" crc="4152180944" mt="1406356958819" redirect="true"/>
+  <file name="app-moviles.html" crc="4027823700" mt="1406356958820" redirect="true"/>
+  <file name="portafolios.html" crc="341926857" mt="1406356958820" redirect="true"/>
+  <file name="contacto.html" crc="4265338469" mt="1406356958821" redirect="true"/>
+  <file name="index.html" crc="3822939474" mt="1406356958822" redirect="true"/>
+  <file name="confirmacion.html" crc="4190414118" mt="1406356958822" redirect="true"/>
+</manifest>
